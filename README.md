@@ -4,12 +4,6 @@ ResumeRanker AI is an intelligent application that matches resumes with job desc
 
 ---
 
-## 🚀 Demo
-
-https://huggingface.co/spaces/abhisheksingh100/Resume_Rankers_AI
-
----
-
 ## ✨ Features
 
 - ✅ Upload multiple resumes (PDF or DOCX)
